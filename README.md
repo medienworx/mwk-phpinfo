@@ -12,9 +12,12 @@ https://contao.org/de/extension-list/view/mwk-phpinfo.10000019.de.html
 Support unter 
 http://support.medienworx.eu
 
-oder per E-Mail unter
+oder per E-Mail unter 
 support@medienworx.eu
+
+oder auf Github unter 
+https://github.com/medienworx/mwk-phpinfo
 
 ===============================
 
-Wem das nicht ausreicht, natürlich auch auf Github
+## Es werden noch einige features folgen...
