@@ -1,0 +1,5 @@
+<div id="mwkPhpInfo" class="<?php echo $this->class; ?>">
+
+    <?php echo $this->showScreen; ?>
+
+</div>
