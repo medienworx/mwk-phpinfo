@@ -9,15 +9,15 @@ Contao Repository:
 https://contao.org/de/extension-list/view/mwk-phpinfo.10000019.de.html
 
 ===============================
-Support unter 
+Support: 
 http://support.medienworx.eu
 
-oder per E-Mail unter 
+Support per E-Mail: 
 support@medienworx.eu
 
-oder auf Github unter 
+Support auf Github: 
 https://github.com/medienworx/mwk-phpinfo
 
 ===============================
 
-## Es werden noch einige features folgen...
+### Es werden noch einige features folgen...
