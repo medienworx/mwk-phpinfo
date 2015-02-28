@@ -17,7 +17,7 @@
  */
 namespace medienworx;
 
-class ModulesPhpInfo extends \Module
+class ModulesPhpInfo extends \BackendModule
 {
 
     /**
