@@ -12,5 +12,6 @@
  * @license     http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  */
 
+$GLOBALS['TL_LANG']['MOD']['mwk-supportcenter'] = 'MWX-Support Center';
 $GLOBALS['TL_LANG']['MOD']['mwk_phpinfo'][0] = 'PHP Info';
 $GLOBALS['TL_LANG']['MOD']['mwk_phpinfo'][1] = 'PHP Info anzeigen';
