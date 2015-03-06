@@ -12,12 +12,20 @@
  * @license     http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  */
 
-$GLOBALS['BE_MOD']['mwk-manager'] = array
+/**
+ * Back end modules
+ */
+
+array_insert($GLOBALS['BE_MOD'], 2, array
+
 (
-	'mwk_phpinfo' => array
+	'mwk-supportcenter' => array
 	(
-		'callback'      =>      'ModulesPhpInfo',
-		'icon'          =>      'system/modules/mwk-phpinfo/assets/images/phpinfo-icon.png',
-		'stylesheet'    =>      'system/modules/mwk-phpinfo/assets/css/mwk-phpinfo.css'
-	),
-);
+		'mwk_phpinfo' => array
+		(
+			'callback'      =>      'ModulesPhpInfo',
+			'icon'          =>      'system/modules/mwk-phpinfo/assets/images/phpinfo-icon.png',
+			'stylesheet'    =>      'system/modules/mwk-phpinfo/assets/css/mwk-phpinfo.css'
+		),
+	)
+));
